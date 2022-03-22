@@ -1,0 +1,13 @@
+body {
+  background-color: lightgrey;
+}
+
+.btn {
+  width: 600px;
+  height: 200px;
+  background-color: #2d2e31;
+  color: #83d3c1;
+  border: none;
+  border-radius: 20px;
+  font-size: 80px;
+}
